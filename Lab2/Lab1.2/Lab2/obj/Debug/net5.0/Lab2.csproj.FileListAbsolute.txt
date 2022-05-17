@@ -1,0 +1,15 @@
+/Users/ubet/RiderProjects/Lab1.2/Lab2/bin/Debug/net5.0/Lab2.deps.json
+/Users/ubet/RiderProjects/Lab1.2/Lab2/bin/Debug/net5.0/Lab2.runtimeconfig.json
+/Users/ubet/RiderProjects/Lab1.2/Lab2/bin/Debug/net5.0/Lab2.runtimeconfig.dev.json
+/Users/ubet/RiderProjects/Lab1.2/Lab2/bin/Debug/net5.0/Lab2.dll
+/Users/ubet/RiderProjects/Lab1.2/Lab2/bin/Debug/net5.0/ref/Lab2.dll
+/Users/ubet/RiderProjects/Lab1.2/Lab2/bin/Debug/net5.0/Lab2.pdb
+/Users/ubet/RiderProjects/Lab1.2/Lab2/obj/Debug/net5.0/Lab2.csproj.AssemblyReference.cache
+/Users/ubet/RiderProjects/Lab1.2/Lab2/obj/Debug/net5.0/Lab2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ubet/RiderProjects/Lab1.2/Lab2/obj/Debug/net5.0/Lab2.AssemblyInfoInputs.cache
+/Users/ubet/RiderProjects/Lab1.2/Lab2/obj/Debug/net5.0/Lab2.AssemblyInfo.cs
+/Users/ubet/RiderProjects/Lab1.2/Lab2/obj/Debug/net5.0/Lab2.csproj.CoreCompileInputs.cache
+/Users/ubet/RiderProjects/Lab1.2/Lab2/obj/Debug/net5.0/Lab2.dll
+/Users/ubet/RiderProjects/Lab1.2/Lab2/obj/Debug/net5.0/ref/Lab2.dll
+/Users/ubet/RiderProjects/Lab1.2/Lab2/obj/Debug/net5.0/Lab2.pdb
+/Users/ubet/RiderProjects/Lab1.2/Lab2/obj/Debug/net5.0/Lab2.genruntimeconfig.cache
